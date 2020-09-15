@@ -1,0 +1,44 @@
+.card-header{
+	background-color: #53dfdf;
+}
+.card-header h3{
+  color: #fff;
+}
+label{
+	color: #53dfdf;
+	font-size: 1.2rem;
+	font-weight: bold;
+}
+.btn{
+	background-color: #53dfdf !important;
+	border-radius: 10px;
+	border: none;
+	outline: none;
+	font-size: 1.1rem;
+	font-weight: bold;
+}
+.btn:hover{
+background-color: #53dfdf !important;
+	border-radius: 10px;
+	border: none;
+	outline: none;
+}
+.dropdown-menu{
+	background-color: #53dfdf !important;
+}
+.dropdown-menu a:hover{
+background-color: #53dfdf !important;
+}
+.list-group-item a{
+	float: left;
+	text-decoration: none;
+	color: #53dfdf;
+	font-size: 1rem;
+	font-weight: bold;
+}
+td{
+	color: #53dfdf;
+	font-size: 1rem;
+	font-weight: bold;
+	
+}
